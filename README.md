@@ -1,5 +1,5 @@
 ## Hi there :)
-- 🪷 I'm currently learning phython!
+- 🪷 I'm currently learning python!
 - 😄 Pronouns: she/her
 
 <!--

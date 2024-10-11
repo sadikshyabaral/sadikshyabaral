@@ -1,6 +1,6 @@
 ## Hi there :)
-🪷 I'm currently learning phython!
-😄 Pronouns: she/her
+- 🪷 I'm currently learning phython!
+- 😄 Pronouns: she/her
 
 <!--
 **sadikshyabaral/sadikshyabaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,10 @@
 
 ## Hi there :)
 - 🪷 I'm currently learning about software testing!
+<!--
 - 😄 Pronouns: she/her
 
-<!--
+
 **sadikshyabaral/sadikshyabaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
